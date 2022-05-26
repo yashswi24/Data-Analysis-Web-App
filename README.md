@@ -11,7 +11,6 @@ For this Project I have used Streamlit which is an open source app framework in 
 
 ## Reproducing this web app
 To recreate this web app on your system do the following
-
 To run this web app your system must be installed with a source code editor such as VS Code or Pycharm.
 ### Installing the prerequisite
 
