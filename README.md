@@ -26,7 +26,7 @@ Pip install Libraries
 ```
 Download and unzip Project folder from GitHub 
 ```bash
-  https://github.com/yashswi24/Engage-Final-Project
+  https://github.com/yashswi24/Engage-Final-Project.git
 ```
 ## Launching the App
 
