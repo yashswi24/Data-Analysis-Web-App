@@ -26,7 +26,7 @@ Pip install Libraries
 ```
 Download and unzip Project folder from GitHub 
 ```bash
-  npm run deploy
+  https://github.com/yashswi24/Engage-Final-Project
 ```
 ## Launching the App
 
