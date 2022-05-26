@@ -4,7 +4,7 @@
 Exploratory data analysis (EDA) is an essential and preliminary step for exploring and summarizing the main characteristics of datasets. EDA provides the means to help us better understand variables and their relationships. This is achieved by non-graphical (descriptive statistics) and graphical (data visualization) techniques.
 
 ## Documentation and Technology
-Streamlit is an open source app framework in Python language. It helps us create web apps for data science and machine learning in a short time. It is compatible with major Python libraries such as scikit-learn, Keras, PyTorch, SymPy(latex), NumPy, pandas, Matplotlib etc. With Streamlit, no callbacks are needed since widgets are treated as variables. Data caching simplifies and speeds up computation pipelines. Streamlit watches for changes on updates of the linked Git repository and the application will be deployed automatically in the shared link
+For this Project I have used Streamlit which is an open source app framework in Python language. It helps us create web apps for data science and machine learning in a short time. It is compatible with major Python libraries such as scikit-learn, Keras, PyTorch, SymPy(latex), NumPy, pandas, Matplotlib etc. With Streamlit, no callbacks are needed since widgets are treated as variables. Data caching simplifies and speeds up computation pipelines. Streamlit watches for changes on updates of the linked Git repository and the application will be deployed automatically in the shared link
 
 [Streamlit Documentation](https://docs.streamlit.io/)
 
