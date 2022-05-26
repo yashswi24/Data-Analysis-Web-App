@@ -14,7 +14,7 @@ selected=option_menu(
        
        menu_title=None,
        options=["Home","Demo","About"],
-       icons=["house","book","car"],
+       icons=["house","book","pen"],
        menu_icon="cast",
        default_index=0,
        orientation="horizontal"
