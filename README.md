@@ -17,7 +17,7 @@ To run this web app your system must be installed with a source code editor such
 Download the Requirements.txt file
 
 ```bash
-  npm run deploy
+  https://github.com/yashswi24/Engage-Final-Project/blob/main/Requirements.txt
 ```
 Pip install Libraries
 
