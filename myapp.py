@@ -17,7 +17,7 @@ selected=option_menu(
        icons=["house","book","pen"],
        menu_icon="cast",
        default_index=0,
-       orientation="horizontal"
+       
 )
 
     
